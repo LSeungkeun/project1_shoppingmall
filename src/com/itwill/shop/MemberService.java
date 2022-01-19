@@ -5,4 +5,7 @@ public class MemberService {
 	public MemberService() {
 		memberDao = new MemberDao();
 	}
+public void selectAll() {
+		
+	}
 }
